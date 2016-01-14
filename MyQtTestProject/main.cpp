@@ -3,6 +3,8 @@
 
 int main(int argc, char *argv[])
 {
+    test test test;
+
     QApplication app(argc, argv);
     QPushButton button("Hello world");
     button.show();
